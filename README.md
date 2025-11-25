@@ -44,5 +44,5 @@ cd Cyber-Security-Projects`
 Then go into any project:
 
 cd Secure-Storage-App
-# or
+or
 cd Network-Packet-Sniffer
