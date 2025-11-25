@@ -38,8 +38,10 @@ A network packet sniffer that captures and analyzes network traffic to identify 
 
 Clone this combined repository:
 
-`git clone https://github.com/rajeevmore112/Cyber-Security-Projects.git
-cd Cyber-Security-Projects`
+```bash
+git clone https://github.com/rajeevmore112/Cyber-Security-Projects.git
+cd Cyber-Security-Projects
+```
 
 Then go into any project:
 
