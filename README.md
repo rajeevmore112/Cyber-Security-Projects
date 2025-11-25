@@ -45,6 +45,10 @@ cd Cyber-Security-Projects
 
 Then go into any project:
 
+```bash
 cd Secure-Storage-App
+```
 or
+```bash
 cd Network-Packet-Sniffer
+```
